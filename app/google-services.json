@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "504845139692",
+    "firebase_url": "https://compa-elena.firebaseio.com",
+    "project_id": "compa-elena",
+    "storage_bucket": "compa-elena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504845139692:android:1c0174dd33f3c677",
+        "android_client_info": {
+          "package_name": "com.example.jdemu.pruebaselena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504845139692-f5u94cd2t4v9af7nfuirhqkg86l2spar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0iOMYzBCkSg6pxrcXgC4uLotJ1Xn106Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
